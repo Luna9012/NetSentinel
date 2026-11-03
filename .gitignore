@@ -1,0 +1,17 @@
+# Python
+backend/venv/
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# SQLite data
+database/netsentinel.db
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Logs
+*.log
